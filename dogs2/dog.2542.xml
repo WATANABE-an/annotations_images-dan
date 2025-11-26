@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dogs2</folder>
+	<filename>dog.2542.jpg</filename>
+	<path>C:\Users\dan09\Downloads\annotations_images-main\annotations_images-main\annotation_images_dan\dogs2\dog.2542.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>146</ymin>
+			<xmax>218</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

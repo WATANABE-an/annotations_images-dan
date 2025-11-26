@@ -1,0 +1,8 @@
+Cat and Dog
+https://www.kaggle.com/datasets/tongpython/cat-and-dog?resource=download
+
+blackBear
+https://images.cv/dataset/american-black-bear-image-classification-datase
+
+Black bear2
+https://www.sciencebase.gov/catalog/file/get/64bfe7d5d34e70357a322cdd?f=__disk__49%2Fe7%2Fc3%2F49e7c380204c2d33cfe08737ed1c48f160dea6d7&transform=1&allowOpen=true
