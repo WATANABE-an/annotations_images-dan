@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bears596-793</folder>
+	<filename>bear654.jpg</filename>
+	<path>C:\Users\dan09\Downloads\annotations_images-main\annotations_images-main\annotation_images_dan\bears596-793\bear654.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>103</ymin>
+			<xmax>314</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>
